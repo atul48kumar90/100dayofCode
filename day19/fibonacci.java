@@ -13,4 +13,11 @@ public class Fibo {
 	  return fib(n-1) + fib(n-2);
 	 }
 }
+
+
+//class Solution {
+ //   public int fib(int n) {
+//        return (int)Math.round(Math.pow(1.618034,n) / Math.sqrt(5));
+//    }
+//}
 	 
